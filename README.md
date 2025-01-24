@@ -1,5 +1,5 @@
 # Aya Sayed | Electronics and Communications Engineering Student 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Dream,+code,+deploy)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer)](https://git.io/typing-svg)
 
 #### 👋 About Me
 I'm a senior Communication and Electronics Engineering student passionate about artificial intelligence and computer vision. My work spans various AI fields, including computer vision, autonomous systems, and machine learning. I’m always eager to learn, collaborate, and contribute to impactful projects.
