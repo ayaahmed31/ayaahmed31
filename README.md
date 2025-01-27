@@ -5,7 +5,7 @@
 I’m Ayah, a senior Telecommunications and Electronics Engineering student with a deep passion for Artificial Intelligence and Computer Vision. I love exploring innovative technologies and using them to create meaningful solutions.
 
 #### 🛠 Tech Stack:
-- ** Image Processing & Computer Vision
+- Image Processing & Computer Vision
 - ** Programming: Python, C/C++, VHDL
 - ** Libraries & Tools: OpenCV, TensorFlow, PyTorch
 
