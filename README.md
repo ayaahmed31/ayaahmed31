@@ -2,7 +2,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer)](https://git.io/typing-svg)
 
 #### About Me 🌟
-I’m Ayah, a senior Telecommunications and Electronics Engineering student with a deep passion for Artificial Intelligence and Computer Vision. I love exploring innovative technologies and using them to create meaningful solutions.
+I’m Aya, a senior Telecommunications and Electronics Engineering student with a deep passion for Artificial Intelligence and Computer Vision. I love exploring innovative technologies and using them to create meaningful solutions.
 
 #### 🛠 Tech Stack:
 - Image Processing & Computer Vision
